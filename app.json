@@ -5,15 +5,15 @@
   "repository": "https://github.com/strapi/strapi-starter-blog",
   "env": {
     "CLOUDINARY_CLOUD_NAME": {
-      "description": "dcidrfqrp",
+      "description": "The 'Cloud name' of your Cloudinary account",
       "required": true
     },
     "CLOUDINARY_API_KEY": {
-      "description": "824512687575779",
+      "description": "The 'API Key' of your Cloudinary account",
       "required": true
     },
     "CLOUDINARY_API_SECRET": {
-      "description": "wp5Nba7pk4Yhwn2cHNm23tFHneE",
+      "description": "The 'API Secret' of your Cloudinary account",
       "required": true
     }
   },
